@@ -1,0 +1,18 @@
+{
+  "name": "reskill-demo",
+  "version": "1.0.0",
+  "description": "demo for reskill americans",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Carlos Flores",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
